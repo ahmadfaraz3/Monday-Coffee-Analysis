@@ -5,34 +5,34 @@
 The primary objective of this SQL-based project is to analyze and recommend the top three cities for Monday Coffee’s expansion strategy. Since its inception in 2023, Monday Coffee has demonstrated strong market performance, and this analysis aims to identify cities that offer the highest potential for growth.
 
 # Critical questions
-1.Coffee Consumers Count
+1.**Coffee Consumers Count**
 How many people in each city are estimated to consume coffee,     given that 25% of the population does?
 
-2.Total Revenue from Coffee Sales
+2.**Total Revenue from Coffee Sales**
 What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 
-3.Sales Count for Each Product
+3.**Sales Count for Each Product**
 How many units of each coffee product have been sold?
 
-4.Average Sales Amount per City
+4.**Average Sales Amount per City**
 What is the average sales amount per customer in each city?
 
-5.City Population and Coffee Consumers
+5.**City Population and Coffee Consumers**
 Provide a list of cities along with their populations and estimated coffee consumers.
 
-6.Top Selling Products by City
+6.**Top Selling Products by City**
 What are the top 3 selling products in each city based on sales volume?
 
-7.Customer Segmentation by City
+7.**Customer Segmentation by City**
 How many unique customers are there in each city who have purchased coffee products?
 
-8.Average Sale vs Rent
+8.**Average Sale vs Rent**
 Find each city and their average sale per customer and avg rent per customer
 
-9.Monthly Sales Growth
+9.**Monthly Sales Growth**
 Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
-10.Market Potential Analysis
+10.**Market Potential Analysis**
 Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
 
 # Recommendations
@@ -52,7 +52,7 @@ The recommendation is based on a data-driven approach, evaluating key business f
 2. From a cost structure and ROI perspective, Jaipur's lowest rent makes it an attractive choice for higher profit margins and scalable expansion.
 3. It is also the leading state with the maximum number of coffee products ordered, which indicates  brand acceptance & growth potential.
 
-4. **City 3: Delhi**
+**City 3: Delhi**
 1. Delhi has the highest estimated coffee consumers at over 7.7 million, making it ideal place for business expansion.
 2. It  also has the second largest current consumers count at 68, indicating brand acceptance.
 3. Though the average estimated rent per customer stands at 330 rupees, it is still below the average rent.
