@@ -37,11 +37,19 @@ Identify the top 3 cities based on the highest sales. Return the city name, tota
 
 
 # Recommendations
-The recommendation is based on a data-driven approach, evaluating key business factors such as:
-✔ Demand Analysis – Identifying cities with high coffee consumption trends and customer engagement.
-✔ Product Performance – Assessing sales data to determine which products resonate most with consumers.
-✔ Demographic Insights – Considering population size to target the right audience.
-✔ Cost Factors – Analyzing rent prices to ensure sustainable expansion.
+The recommendation is based on a data-driven approach, evaluating key business factors such as:  
+✔ **Demand Analysis**  
+Identifying cities with high coffee consumption trends and customer engagement.  
+
+✔ **Product Performance**  
+Assessing sales data to determine which products resonate most with consumers.  
+
+✔ **Demographic Insights**  
+Considering population size to target the right audience.  
+
+✔ **Cost Factors**  
+Analyzing rent prices to ensure sustainable expansion.  
+
 
 **City 1: Pune**  
 1. Pune has the highest turnover with over 1.2 million in sales in the past 2 years.
