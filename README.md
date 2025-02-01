@@ -1,6 +1,9 @@
 # Monday-Coffee-Analysis
 <img width="698" alt="image" src="https://github.com/user-attachments/assets/ba06652c-2cd2-4153-b52e-dab7b936ae66" />
 
+# Data Model
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/a6ea5468-cd54-44be-8d48-ed7c74b864df" />
+
 # Objective
 The primary objective of this SQL-based project is to analyze and recommend the top three cities for Monday Coffee’s expansion strategy. Since its inception in 2023, Monday Coffee has demonstrated strong market performance, and this analysis aims to identify cities that offer the highest potential for growth.
 
