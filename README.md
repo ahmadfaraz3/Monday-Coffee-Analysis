@@ -5,35 +5,36 @@
 The primary objective of this SQL-based project is to analyze and recommend the top three cities for Monday Coffee’s expansion strategy. Since its inception in 2023, Monday Coffee has demonstrated strong market performance, and this analysis aims to identify cities that offer the highest potential for growth.
 
 # Critical questions
-1.**Coffee Consumers Count**
-  How many people in each city are estimated to consume coffee, given that 25% of the population does?
+### 1. Coffee Consumers Count  
+How many people in each city are estimated to consume coffee, given that 25% of the population does?  
 
-2.**Total Revenue from Coffee Sales**
-  What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+### 2. Total Revenue from Coffee Sales  
+What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?  
 
-3.**Sales Count for Each Product**
-  How many units of each coffee product have been sold?
+### 3. Sales Count for Each Product  
+How many units of each coffee product have been sold?  
 
-4.**Average Sales Amount per City**
-  What is the average sales amount per customer in each city?
+### 4. Average Sales Amount per City  
+What is the average sales amount per customer in each city?  
 
-5.**City Population and Coffee Consumers**
-  Provide a list of cities along with their populations and estimated coffee consumers.
+### 5. City Population and Coffee Consumers  
+Provide a list of cities along with their populations and estimated coffee consumers.  
 
-6.**Top Selling Products by City**
-  What are the top 3 selling products in each city based on sales volume?
+### 6. Top Selling Products by City  
+What are the top 3 selling products in each city based on sales volume?  
 
-7.**Customer Segmentation by City**
-  How many unique customers are there in each city who have purchased coffee products?
+### 7. Customer Segmentation by City  
+How many unique customers are there in each city who have purchased coffee products?  
 
-8.**Average Sale vs Rent**
-  Find each city and their average sale per customer and avg rent per customer
+### 8. Average Sale vs Rent  
+Find each city and their average sale per customer and average rent per customer.  
 
-9.**Monthly Sales Growth**
-  Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+### 9. Monthly Sales Growth  
+Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).  
 
-10.**Market Potential Analysis**
-  Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
+### 10. Market Potential Analysis  
+Identify the top 3 cities based on the highest sales. Return the city name, total sales, total rent, total customers, and estimated coffee consumers.  
+
 
 # Recommendations
 The recommendation is based on a data-driven approach, evaluating key business factors such as:
